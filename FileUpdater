@@ -8,4 +8,5 @@ shell.run("pastebin get qM8tEmSj startup")
 shell.run("pastebin get pPyKN0rJ installer")
 shell.run("pastebin get rpxKpMy9 Update")
 
+fs.delete("FileUpdater")
 os.reboot()
