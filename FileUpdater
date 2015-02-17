@@ -9,5 +9,4 @@ shell.run("pastebin get pPyKN0rJ installer")
 shell.run("pastebin get rpxKpMy9 Update")
 
 fs.delete("FileUpdater")
-fs.delete("apconfig")
 os.reboot()
