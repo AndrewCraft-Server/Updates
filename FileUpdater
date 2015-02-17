@@ -3,6 +3,7 @@ fs.delete("installer")
 fs.delete("startup")
 
 shell.run("pastebin get ncL0up3v file")
+shell.run("pastebin get qM8tEmSj startup")
 shell.run("pastebin get pPyKN0rJ installer")
 
 os.reboot()
