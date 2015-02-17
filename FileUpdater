@@ -1,9 +1,11 @@
 fs.delete("file")
 fs.delete("installer") 
 fs.delete("startup")
+fs.delete("Update")
 
 shell.run("pastebin get ncL0up3v file")
-
+shell.run("pastebin get qM8tEmSj startup")
 shell.run("pastebin get pPyKN0rJ installer")
+shell.run("pastebin get rpxKpMy9 Update")
 
 os.reboot()
