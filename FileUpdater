@@ -8,7 +8,7 @@ fs.delete("Draw")
 fs.delete("Settings")
 
 shell.run("pastebin get ncL0up3v file")
-shell.run("pastebin get qM8tEmSj startup")
+shell.run("pastebin get puSUCVFM startup")
 shell.run("pastebin get qM8tEmSj Desktop")
 shell.run("pastebin get pPyKN0rJ installer")
 shell.run("pastebin get FEW31XFp clockWidget")
